@@ -1,0 +1,14 @@
+/* Example styling of a h1 element */
+
+h1  {
+  color: rgb(93, 155, 120);
+}
+li {
+  color:rgb(93, 155, 120)
+}
+a:link {
+  color:rgb(93, 155, 120)
+}
+.green-bg {
+  background: rgb(159, 211, 183);
+}
